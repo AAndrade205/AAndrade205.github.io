@@ -1,16 +1,16 @@
 @font-face {
     font-family: "LobsterTwo-Bold"; rgb:(65, 33, 95);
-    src: url("../css/fonts/LobsterTwo-Bold.ttf");
+    src: url("/assets/css/fonts/LobsterTwo-Bold.ttf");
 }
 
 @font-face {
     font-family: "Lobster-Regular"; rgb:(65, 33, 95);
-    src: url("../css/fonts/Lobster-Regular.ttf");
+    src: url("/assets/css/fonts/Lobster-Regular.ttf");
 }
 
 @font-face {
     font-family: "Outfit-Regular"; color: rgb(65, 33, 95);
-    src: url("../css/fonts/Outfit-Regular.ttf");
+    src: url("/assets/css/fonts/Outfit-Regular.ttf");
 }
 
 html {
